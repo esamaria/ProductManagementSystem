@@ -14,9 +14,7 @@
     "react-router-dom": "^7.0.2",
     "react-scripts": "5.0.1"
   },
-  {
-  "homepage": "https://esamaria.github.io/ProductManagementSystem"
-},
+
 
   "scripts": {
     "start": "react-scripts start",
